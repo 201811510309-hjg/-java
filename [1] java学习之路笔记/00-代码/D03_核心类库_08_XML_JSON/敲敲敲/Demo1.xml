@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book id="1001">
+		<name>金苹果</name>
+		<info>锄禾日当午汗滴禾下土</info>
+	</book>
+	<book id="1002">
+		<name>银苹果</name>
+		<info>锄禾日当午汗滴禾下土</info>
+	</book>
+</books>
